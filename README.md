@@ -14,7 +14,7 @@
 
 [幻片模板](https://github.com/wurahara/SEU-Beamer-Slide) - by [@wurahara](https://github.com/wurahara)
 
-[17级课程资料（未完结）](https://github.com/HanyuuFurude/cw23) (Private项目，需要查看请[联系作者](mailto:furude_hanyuu@outlook.com)给您访问权限) -by [Hanyuu Furude](https://hanyuufurude.github.io/) 
+[17级机软课程资料（未完结）](https://github.com/HanyuuFurude/cw23) (Private项目，需要查看请[联系作者](mailto:furude_hanyuu@outlook.com)给您访问权限) -by [Hanyuu Furude](https://hanyuufurude.github.io/) 
 
 ## 幸福生活
 [公开数据](https://github.com/alittelboy/seu-info) - by [@alittelboy](https://github.com/alittelboy)
