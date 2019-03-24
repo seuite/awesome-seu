@@ -1,6 +1,8 @@
 # awesome-seu
 天呐，这所学校真厉害
 
+
+
 ## 快乐学习
 [复习资料](https://github.com/lyMeiSEU/ly_schoolhelper) - by [@lyMeiSEU](https://github.com/lyMeiSEU)
 
@@ -12,7 +14,17 @@
 
 [幻片模板](https://github.com/wurahara/SEU-Beamer-Slide) - by [@wurahara](https://github.com/wurahara)
 
+[17级课程资料（未完结）](https://github.com/HanyuuFurude/cw23) (Private项目，需要查看请[联系我](mailto:furude_hanyuu@outlook.com)给您访问权限) -by [Hanyuu Furude](https://hanyuufurude.github.io/) 
+
 ## 幸福生活
 [公开数据](https://github.com/alittelboy/seu-info) - by [@alittelboy](https://github.com/alittelboy)
 
 [欢乐抢课](https://github.com/LeonidasCl/seu-jwc-catcher) - by [@LeonidasCl](https://github.com/LeonidasCl)
+
+## 小工具
+[管理放在寝室、办公室的主机的小工具(未完结)](https://github.com/Skylark-Studio/TelnetSkylark) -by [Hanyuu Furude](https://hanyuufurude.github.io/) 
+
+[自动翻译工具](https://github.com/HanyuuFurude/CopyTranslatePaste) -by [Hanyuu Furude](https://hanyuufurude.github.io/) 
+
+[自动登陆seu工具](https://github.com/HanyuuFurude/seuLogin) -by [Hanyuu Furude](https://hanyuufurude.github.io/)
+
