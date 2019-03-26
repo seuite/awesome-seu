@@ -8,9 +8,9 @@
 
 [复习资料](https://github.com/lyMeiSEU/ly_schoolhelper) - by [@lyMeiSEU](https://github.com/lyMeiSEU)
 
-[**Latex模板**](https://github.com/seucs/seuthesis) - by[@seucs](https://github.com/seucs)
+[**Latex模板**](https://github.com/seucs/seuthesis) - by [@seucs](https://github.com/seucs)
 
-[**PPT模板**](https://github.com/wurahara/SEU-Beamer-Slide) - by[wurahara](https://github.com/wurahara)
+[**PPT模板**](https://github.com/wurahara/SEU-Beamer-Slide) - by [@wurahara](https://github.com/wurahara)
 
 [数学资料](https://github.com/zjdx1998/SEUMath) - by [@zjdx1998](https://github.com/zjdx1998)
 
@@ -30,12 +30,12 @@
 
 [抢课浏览器插件](https://github.com/seucs/404-helper) - by [@seucs](https://github.com/seucs)
 
-[体育馆预约](https://github.com/kimixuchen/GymAutoOrder) - by [kimixuchen](https://github.com/kimixuchen)
+[体育馆预约](https://github.com/kimixuchen/GymAutoOrder) - by [@kimixuchen](https://github.com/kimixuchen)
 
 ## 小工具
 
-[管理放在寝室、办公室的主机的小工具(未完结)](https://github.com/Skylark-Studio/TelnetSkylark) -by [Hanyuu Furude](https://hanyuufurude.github.io/) 
+[管理放在寝室、办公室的主机的小工具(未完结)](https://github.com/Skylark-Studio/TelnetSkylark) -by [@Hanyuu Furude](https://hanyuufurude.github.io/) 
 
-[自动翻译工具](https://github.com/HanyuuFurude/CopyTranslatePaste) -by [Hanyuu Furude](https://hanyuufurude.github.io/) 
+[自动翻译工具](https://github.com/HanyuuFurude/CopyTranslatePaste) -by [@Hanyuu Furude](https://hanyuufurude.github.io/) 
 
-[自动登陆seu工具](https://github.com/HanyuuFurude/seuLogin) -by [Hanyuu Furude](https://hanyuufurude.github.io/)
+[自动登陆seu工具](https://github.com/HanyuuFurude/seuLogin) -by [@Hanyuu Furude](https://hanyuufurude.github.io/)
