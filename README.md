@@ -1,5 +1,6 @@
 # awesome-seu
-天呐，这所学校真厉害
+
+**天呐，这所学校真厉害**
 
 ## 快乐学习
 
@@ -9,7 +10,14 @@
 
 [数学资料](https://github.com/zjdx1998/SEUMath) - by [@zjdx1998](https://github.com/zjdx1998)
 
-[共享计划](https://github.com/zjdx1998/seucourseshare) - by [@zjdx1998](https://github.com/zjdx1998)
+[**Latex模板**](https://github.com/seucs/seuthesis) - by[@seucs](https://github.com/seucs)
+
+[LaTex模板(2)](https://github.com/SouthEastUniversityofChina/seuthesis) - by [@SouthEastUniversityofChina](https://github.com/SouthEastUniversityofChina)
+
+[**PPT模板**](https://github.com/wurahara/SEU-Beamer-Slide) - by[wurahara](https://github.com/wurahara)
+
+[**共享计划**](https://github.com/zjdx1998/seucourseshare) - by [@zjdx1998](https://github.com/zjdx1998)
+
 
 [**课表导出**](https://github.com/NN708/SEU-Curriculum-Export) - by [@NN708](https://github.com/NN708)
 
@@ -18,9 +26,14 @@
 [17级机软课程资料（未完结）](https://github.com/HanyuuFurude/cw23) (Private项目，需要查看请[联系作者](mailto:furude_hanyuu@outlook.com)给您访问权限) -by [Hanyuu Furude](https://hanyuufurude.github.io/) 
 
 ## 幸福生活
+
 [公开数据](https://github.com/alittelboy/seu-info) - by [@alittelboy](https://github.com/alittelboy)
 
 [欢乐抢课](https://github.com/LeonidasCl/seu-jwc-catcher) - by [@LeonidasCl](https://github.com/LeonidasCl)
+
+[抢课浏览器插件](https://github.com/seucs/404-helper) - by [@seucs](https://github.com/seucs)
+
+[体育馆预约](https://github.com/kimixuchen/GymAutoOrder) - by [kimixuchen](https://github.com/kimixuchen)
 
 ## 小工具
 [管理放在寝室、办公室的主机的小工具(未完结)](https://github.com/Skylark-Studio/TelnetSkylark) - by [@Hanyuu Furude](https://hanyuufurude.github.io/) 
@@ -30,4 +43,5 @@
 [自动登陆seu工具](https://github.com/HanyuuFurude/seuLogin) - by [@Hanyuu Furude](https://hanyuufurude.github.io/)
 
 [安卓自动登录seu软件](https://github.com/cedarwu/AutoLogin) - by [@cedarwu](https://github.com/cedarwu)
+
 
