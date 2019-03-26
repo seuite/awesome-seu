@@ -18,6 +18,7 @@
 
 [**共享计划**](https://github.com/zjdx1998/seucourseshare) - by [@zjdx1998](https://github.com/zjdx1998)
 
+[SEU-Monash分享](https://github.com/NonoKing/SEU_Monash_2017-2018) - by [@NonoKing](https://github.com/nonoking)
 
 [**课表导出**](https://github.com/NN708/SEU-Curriculum-Export) - by [@NN708](https://github.com/NN708)
 
