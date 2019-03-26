@@ -4,17 +4,19 @@
 
 ## 快乐学习
 
+[文档规范](https://docs.seu.services/#/guide/SEUITEDocManual) - by [@SEU-ITE](https://github.com/SEU-ITE)
+
 [复习资料](https://github.com/lyMeiSEU/ly_schoolhelper) - by [@lyMeiSEU](https://github.com/lyMeiSEU)
 
-[Latex模板](https://github.com/seucs/seuthesis) - by[@seucs](https://github.com/seucs)
+[**Latex模板**](https://github.com/seucs/seuthesis) - by[@seucs](https://github.com/seucs)
 
-[PPT模板](https://github.com/wurahara/SEU-Beamer-Slide - by[wurahara](https://github.com/wurahara)
+[**PPT模板**](https://github.com/wurahara/SEU-Beamer-Slide - by[wurahara](https://github.com/wurahara)
 
 [数学资料](https://github.com/zjdx1998/SEUMath) - by [@zjdx1998](https://github.com/zjdx1998)
 
-[共享计划](https://github.com/zjdx1998/seucourseshare) - by [@zjdx1998](https://github.com/zjdx1998)
+[**共享计划**](https://github.com/zjdx1998/seucourseshare) - by [@zjdx1998](https://github.com/zjdx1998)
 
-[**课表导出**](https://github.com/NN708/SEU-Curriculum-Export) - by [@NN708](https://github.com/NN708)
+[课表导出](https://github.com/NN708/SEU-Curriculum-Export) - by [@NN708](https://github.com/NN708)
 
 [幻片模板](https://github.com/wurahara/SEU-Beamer-Slide) - by [@wurahara](https://github.com/wurahara)
 
