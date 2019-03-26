@@ -30,6 +30,10 @@
 
 [17级机软课程资料（未完结）](https://github.com/HanyuuFurude/cw23) (Private项目，需要查看请[联系作者](mailto:furude_hanyuu@outlook.com)给您访问权限) -by [Hanyuu Furude](https://hanyuufurude.github.io/) 
 
+[绩点计算](https://github.com/ExcitedSpider/SEU-GPA-Calculator) - by [@ExcitedSpider](https://github.com/ExcitedSpider)
+
+[语义分析项目](https://github.com/wwsun/seu-semanticAnalysis) - by [@wwSun](https://github.com/wwsun)
+
 ## 幸福生活
 
 [实用信息](https://github.com/yang69/SEU) - by [@yang69](https://github.com/yang69)
