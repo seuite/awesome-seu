@@ -4,6 +4,9 @@
 
 
 ## 快乐学习
+
+[文档规范](https://docs.seu.services.com/#/guide/SEUITEDocManual) - by [@SEU-ITE](https://github.com/SEU-ITE)
+
 [复习资料](https://github.com/lyMeiSEU/ly_schoolhelper) - by [@lyMeiSEU](https://github.com/lyMeiSEU)
 
 [数学资料](https://github.com/zjdx1998/SEUMath) - by [@zjdx1998](https://github.com/zjdx1998)
