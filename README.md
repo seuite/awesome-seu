@@ -32,6 +32,8 @@
 
 ## 幸福生活
 
+[实用信息](https://github.com/yang69/SEU) - by [@yang69](https://github.com/yang69)
+
 [公开数据](https://github.com/alittelboy/seu-info) - by [@alittelboy](https://github.com/alittelboy)
 
 [欢乐抢课](https://github.com/LeonidasCl/seu-jwc-catcher) - by [@LeonidasCl](https://github.com/LeonidasCl)
