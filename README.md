@@ -10,7 +10,7 @@
 
 [**Latex模板**](https://github.com/seucs/seuthesis) - by[@seucs](https://github.com/seucs)
 
-[PPT模板](https://github.com/wurahara/SEU-Beamer-Slide - by[wurahara](https://github.com/wurahara)
+[**PPT模板**](https://github.com/wurahara/SEU-Beamer-Slide) - by[wurahara](https://github.com/wurahara)
 
 [数学资料](https://github.com/zjdx1998/SEUMath) - by [@zjdx1998](https://github.com/zjdx1998)
 
