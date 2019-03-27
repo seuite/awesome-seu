@@ -40,29 +40,17 @@
 
 [绩点计算](https://github.com/ExcitedSpider/SEU-GPA-Calculator) - by [@ExcitedSpider](https://github.com/ExcitedSpider)
 
-[语义分析项目](https://github.com/wwsun/seu-semanticAnalysis) - by [@wwSun](https://github.com/wwsun)
-
 [后端学习笔记](https://github.com/TauWu/backend_learning_notes) - by [@TauWu](https://github.com/TauWu)
 
 [微软学生俱乐部博客](https://github.com/RunningSnail-likang/mstcblog) - by [@RunningSnail-likang](https://github.com/RunningSnail-likang)
 
-[经管系银行项目](https://github.com/zenhox/OnlineBank) - by [@zenhox](https://github.com/zenhox)
-
 ## 幸福生活
-
-[欢乐抢课](https://github.com/LeonidasCl/seu-jwc-catcher) - by [@LeonidasCl](https://github.com/LeonidasCl)
-
-[抢课浏览器插件](https://github.com/seucs/404-helper) - by [@seucs](https://github.com/seucs)
-
-[18级新系统抢课软件](https://github.com/AriaPokotengYe/SEU-NewSystem-catcher) - by [@AriaPokotengYe](https://github.com/AriaPokotengYe)
-
-[18级新系统抢课(php服务器实现)](https://github.com/zixi123/seuGrabber) - by [@Yohane](https://github.com/zixi123)
 
 [体育馆预约](https://github.com/kimixuchen/GymAutoOrder) - by [@kimixuchen](https://github.com/kimixuchen)
 
 [本科GPA导出pdf](https://github.com/Neilai/seu-GPA-helper) - by [@Neilai](https://github.com/Neilai}
 
-## 小工具
+## 各式脚(lun)本(zi)
 
 [管理放在寝室、办公室的主机的小工具(未完结)](https://github.com/Skylark-Studio/TelnetSkylark) - by [@Hanyuu Furude](https://hanyuufurude.github.io/) 
 
@@ -74,14 +62,28 @@
 
 [SeuWlan脚本(3)(Go)](https://github.com/bosoncat/seu-wlan) - by [@bosoncat](https://github.com/bosoncat)
 
-[自动登陆seu工具(Python)](https://github.com/HanyuuFurude/seuLogin) - by [@Hanyuu Furude](https://hanyuufurude.github.io/)
+[SeuWlan脚本(4)(Python)](https://github.com/HanyuuFurude/seuLogin) - by [@Hanyuu Furude](https://hanyuufurude.github.io/) - 注：[SEU-ITE](https://github.com/SEU-ITE)使用其中的web.py于生产环境中
 
 [安卓自动登录seu软件](https://github.com/cedarwu/AutoLogin) - by [@cedarwu](https://github.com/cedarwu)
 
 [Wox登录SEU-Wlan插件](https://github.com/wangjunchi/Wox_Plugin_SEU_Autologin) - by [@wangjunchi](https://github.com/wangjunchi)
 
-[土木的一些App](https://github.com/hzlbbfrog/SEU) - by [@hzlbbfrog](https://github.com/hzlbbfrog)
+[欢乐抢课](https://github.com/LeonidasCl/seu-jwc-catcher) - by [@LeonidasCl](https://github.com/LeonidasCl)  
 
-[东大小微后端代码](https://github.com/seuxw/api_seuxw_backend) - by [@东大小微](https://github.com/seuxw)
+[抢课浏览器插件](https://github.com/seucs/404-helper) - by [@seucs](https://github.com/seucs)  
+
+[18级新系统抢课软件](https://github.com/AriaPokotengYe/SEU-NewSystem-catcher) - by [@AriaPokotengYe](https://github.com/AriaPokotengYe)  
+
+[18级新系统抢课(php服务器实现)](https://github.com/zixi123/seuGrabber) - by [@Yohane](https://github.com/zixi123)
+
+## 项目参考
 
 [农业大数据项目SSM框架集成](https://github.com/SEUFarmTeam/AgricultureBD_demo) - by [@SEUFarmTeam](https://github.com/SEUFarmTeam)
+
+[东大小微后端代码](https://github.com/seuxw/api_seuxw_backend) - by [@东大小微](https://github.com/seuxw)、
+
+[土木的一些App](https://github.com/hzlbbfrog/SEU) - by [@hzlbbfrog](https://github.com/hzlbbfrog)
+
+[经管系银行项目](https://github.com/zenhox/OnlineBank) - by [@zenhox](https://github.com/zenhox)
+
+[语义分析项目](https://github.com/wwsun/seu-semanticAnalysis) - by [@wwSun](https://github.com/wwsun) - 注：这是东大数据智能实验室的项目
