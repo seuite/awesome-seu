@@ -35,7 +35,7 @@
 
 [LaTex模板(2)](https://github.com/SouthEastUniversityofChina/seuthesis) - by [@SouthEastUniversityofChina](https://github.com/SouthEastUniversityofChina)
 
-[Latex模板(3)]https://github.com/wurahara/SEU-Thesis-Defence-Slide - by [@wurahara](https://github.com/wurahara)
+[Latex模板(3)](https://github.com/wurahara/SEU-Thesis-Defence-Slide) - by [@wurahara](https://github.com/wurahara)
 
 [Lyx模板](https://github.com/oldoldstone/seuthslyx) - by [@Oldoldstone](https://github.com/oldoldstone)
 
