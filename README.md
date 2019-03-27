@@ -2,13 +2,23 @@
 
 **天呐，这所学校真厉害**
 
-## 快乐学习
-
 [文档规范](https://docs.seu.services/#/guide/SEUITEDocManual) - by [@SEU-ITE](https://github.com/SEU-ITE)
+
+## 资源整合
 
 [复习资料](https://github.com/lyMeiSEU/ly_schoolhelper) - by [@lyMeiSEU](https://github.com/lyMeiSEU)
 
 [数学资料](https://github.com/zjdx1998/SEUMath) - by [@zjdx1998](https://github.com/zjdx1998)
+
+[**共享计划**](https://github.com/zjdx1998/seucourseshare) - by [@zjdx1998](https://github.com/zjdx1998)
+
+[实用信息](https://github.com/yang69/SEU) - by [@yang69](https://github.com/yang69) 
+
+[公开数据](https://github.com/alittelboy/seu-info) - by [@alittelboy](https://github.com/alittelboy)
+
+[东大网安资料整理](https://github.com/susers/Course) - by [@东大网安](https://github.com/susers)
+
+## 快乐学习
 
 [**Latex模板**](https://github.com/seucs/seuthesis) - by[@seucs](https://github.com/seucs)
 
@@ -17,8 +27,6 @@
 [Lyx模板](https://github.com/oldoldstone/seuthslyx) - by [@Oldoldstone](https://github.com/oldoldstone)
 
 [**PPT模板**](https://github.com/wurahara/SEU-Beamer-Slide) - by[wurahara](https://github.com/wurahara)
-
-[**共享计划**](https://github.com/zjdx1998/seucourseshare) - by [@zjdx1998](https://github.com/zjdx1998)
 
 [SEU-Monash分享](https://github.com/NonoKing/SEU_Monash_2017-2018) - by [@NonoKing](https://github.com/nonoking)
 
@@ -41,10 +49,6 @@
 [经管系银行项目](https://github.com/zenhox/OnlineBank) - by [@zenhox](https://github.com/zenhox)
 
 ## 幸福生活
-
-[实用信息](https://github.com/yang69/SEU) - by [@yang69](https://github.com/yang69)
-
-[公开数据](https://github.com/alittelboy/seu-info) - by [@alittelboy](https://github.com/alittelboy)
 
 [欢乐抢课](https://github.com/LeonidasCl/seu-jwc-catcher) - by [@LeonidasCl](https://github.com/LeonidasCl)
 
@@ -78,6 +82,4 @@
 
 [土木的一些App](https://github.com/hzlbbfrog/SEU) - by [@hzlbbfrog](https://github.com/hzlbbfrog)
 
-[东大小微](https://github.com/seuxw/api_seuxw_backend) - by [@东大小微](https://github.com/seuxw)
-
-[东大网安资料整理](https://github.com/susers/Course) - by [@东大网安](https://github.com/susers)
+[东大小微后端代码](https://github.com/seuxw/api_seuxw_backend) - by [@东大小微](https://github.com/seuxw)
