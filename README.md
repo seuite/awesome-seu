@@ -42,7 +42,7 @@
 
 [笔记分享](https://github.com/Yvon-Shong/SEU) - by [@Yvon-Shong](https://github.com/Yvon-Shong)
 
-[17级机软课程资料（未完结）](https://github.com/HanyuuFurude/cw23) (Private项目，需要查看请[联系作者](mailto:furude_hanyuu@outlook.com)给您访问权限) -by [Hanyuu Furude](https://hanyuufurude.github.io/) 
+[17级机软课程资料（未完结）](https://github.com/HanyuuFurude/cw23) - by [Hanyuu Furude](https://hanyuufurude.github.io/) - 注：Private项目，需要查看请[联系作者](mailto:furude_hanyuu@outlook.com)提供访问权限
 
 [绩点计算](https://github.com/ExcitedSpider/SEU-GPA-Calculator) - by [@ExcitedSpider](https://github.com/ExcitedSpider)
 
