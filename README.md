@@ -58,7 +58,7 @@
 
 [SeuWebHelper(Python)(exe)](https://github.com/leyuwei/SeuWebHelper) - by [@leyuwei](https://github.com/leyuwei)
 
-[SeuWlan脚本(2)(Python)]
+[SeuWlan脚本(2)(Python)](https://github.com/shipengAlan/seuWlanLogin) - by [@shipengAlan](https://github.com/shipengAlan)
 
 [自动登陆seu工具(Python)](https://github.com/HanyuuFurude/seuLogin) - by [@Hanyuu Furude](https://hanyuufurude.github.io/)
 
