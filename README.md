@@ -26,6 +26,10 @@
 
 [东大小微后端代码](https://github.com/seuxw/api_seuxw_backend) - by [@东大小微](https://github.com/seuxw)
 
+[小猴偷米后端代码](https://github.com/HeraldStudio/herald-webservice) - by [@小猴偷米工作室](https://github.com/HeraldStudio)
+
+[小猴偷米 PWA 版](https://github.com/HeraldStudio/herald-web) - by [@小猴偷米工作室](https://github.com/HeraldStudio)
+
 ## 快乐学习
 
 [**Latex模板**](https://github.com/seucs/seuthesis) - by[@seucs](https://github.com/seucs)
@@ -101,3 +105,5 @@
 [语义分析项目](https://github.com/wwsun/seu-semanticAnalysis) - by [@wwSun](https://github.com/wwsun) - 注：这是东大数据智能实验室的项目
 
 [seuknower](https://github.com/zjhsdtc/seuknower_backend) - by [@zjhsdtc](https://github/zjhsdtc) - 注：该项目已经破产，但是代码还是可以参考的
+
+[Robomaster 2018 视觉代码](https://github.com/SEU-SuperNova-CVRA/Robomaster2018-SEU-OpenSource) - by [@SEU-SuperNova-CVRA](https://github.com/SEU-SuperNova-CVRA)
