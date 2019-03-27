@@ -16,7 +16,13 @@
 
 [公开数据](https://github.com/alittelboy/seu-info) - by [@alittelboy](https://github.com/alittelboy)
 
+## 社团专供(x)
+
+[微软学生俱乐部博客](https://github.com/RunningSnail-likang/mstcblog) - by [@RunningSnail-likang](https://github.com/RunningSnail-likang)
+
 [东大网安资料整理](https://github.com/susers/Course) - by [@东大网安](https://github.com/susers)
+
+[东大小微后端代码](https://github.com/seuxw/api_seuxw_backend) - by [@东大小微](https://github.com/seuxw)
 
 ## 快乐学习
 
@@ -41,8 +47,6 @@
 [绩点计算](https://github.com/ExcitedSpider/SEU-GPA-Calculator) - by [@ExcitedSpider](https://github.com/ExcitedSpider)
 
 [后端学习笔记](https://github.com/TauWu/backend_learning_notes) - by [@TauWu](https://github.com/TauWu)
-
-[微软学生俱乐部博客](https://github.com/RunningSnail-likang/mstcblog) - by [@RunningSnail-likang](https://github.com/RunningSnail-likang)
 
 ## 幸福生活
 
@@ -79,8 +83,6 @@
 ## 项目参考
 
 [农业大数据项目SSM框架集成](https://github.com/SEUFarmTeam/AgricultureBD_demo) - by [@SEUFarmTeam](https://github.com/SEUFarmTeam)
-
-[东大小微后端代码](https://github.com/seuxw/api_seuxw_backend) - by [@东大小微](https://github.com/seuxw)、
 
 [土木的一些App](https://github.com/hzlbbfrog/SEU) - by [@hzlbbfrog](https://github.com/hzlbbfrog)
 
