@@ -51,15 +51,20 @@
 [体育馆预约](https://github.com/kimixuchen/GymAutoOrder) - by [kimixuchen](https://github.com/kimixuchen)
 
 ## 小工具
+
 [管理放在寝室、办公室的主机的小工具(未完结)](https://github.com/Skylark-Studio/TelnetSkylark) - by [@Hanyuu Furude](https://hanyuufurude.github.io/) 
 
 [自动翻译工具](https://github.com/HanyuuFurude/CopyTranslatePaste) - by [@Hanyuu Furude](https://hanyuufurude.github.io/) 
 
-[SeuWebHelper](https://github.com/leyuwei/SeuWebHelper) - by [@leyuwei](https://github.com/leyuwei)
+[SeuWebHelper(Python)(exe)](https://github.com/leyuwei/SeuWebHelper) - by [@leyuwei](https://github.com/leyuwei)
 
-[自动登陆seu工具](https://github.com/HanyuuFurude/seuLogin) - by [@Hanyuu Furude](https://hanyuufurude.github.io/)
+[SeuWlan脚本(2)(Python)]
+
+[自动登陆seu工具(Python)](https://github.com/HanyuuFurude/seuLogin) - by [@Hanyuu Furude](https://hanyuufurude.github.io/)
 
 [安卓自动登录seu软件](https://github.com/cedarwu/AutoLogin) - by [@cedarwu](https://github.com/cedarwu)
 
 [Wox登录SEU-Wlan插件](https://github.com/wangjunchi/Wox_Plugin_SEU_Autologin) - by [@wangjunchi](https://github.com/wangjunchi)
+
+[土木的一些App](https://github.com/hzlbbfrog/SEU) - by [@hzlbbfrog](https://github.com/hzlbbfrog)
 
