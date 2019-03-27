@@ -4,6 +4,8 @@
 
 [文档规范](https://docs.seu.services/#/guide/SEUITEDocManual) - by [@SEU-ITE](https://github.com/SEU-ITE)
 
+[SEUITE镜像站](https://mirrors.seu.services) - by [@SEU-ITE](https://github.com/SEU-ITE)
+
 ## 资源整合
 
 [复习资料](https://github.com/lyMeiSEU/ly_schoolhelper) - by [@lyMeiSEU](https://github.com/lyMeiSEU)
@@ -29,6 +31,8 @@
 [**Latex模板**](https://github.com/seucs/seuthesis) - by[@seucs](https://github.com/seucs)
 
 [LaTex模板(2)](https://github.com/SouthEastUniversityofChina/seuthesis) - by [@SouthEastUniversityofChina](https://github.com/SouthEastUniversityofChina)
+
+[Latex模板(3)]https://github.com/wurahara/SEU-Thesis-Defence-Slide - by [@wurahara](https://github.com/wurahara)
 
 [Lyx模板](https://github.com/oldoldstone/seuthslyx) - by [@Oldoldstone](https://github.com/oldoldstone)
 
