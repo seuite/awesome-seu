@@ -34,6 +34,10 @@
 
 [语义分析项目](https://github.com/wwsun/seu-semanticAnalysis) - by [@wwSun](https://github.com/wwsun)
 
+[后端学习笔记](https://github.com/TauWu/backend_learning_notes) - by [@TauWu](https://github.com/TauWu)
+
+[微软学生俱乐部博客](https://github.com/RunningSnail-likang/mstcblog) - by[@RunningSnail-likang](https://github.com/RunningSnail-likang)
+
 ## 幸福生活
 
 [实用信息](https://github.com/yang69/SEU) - by [@yang69](https://github.com/yang69)
@@ -48,7 +52,9 @@
 
 [18级新系统抢课(php服务器实现)](https://github.com/zixi123/seuGrabber) - by [@Yohane](https://github.com/zixi123)
 
-[体育馆预约](https://github.com/kimixuchen/GymAutoOrder) - by [kimixuchen](https://github.com/kimixuchen)
+[体育馆预约](https://github.com/kimixuchen/GymAutoOrder) - by [@kimixuchen](https://github.com/kimixuchen)
+
+[本科GPA导出pdf](https://github.com/Neilai/seu-GPA-helper) - by [@Neilai](https://github.com/Neilai}
 
 ## 小工具
 
@@ -60,6 +66,8 @@
 
 [SeuWlan脚本(2)(Python)](https://github.com/shipengAlan/seuWlanLogin) - by [@shipengAlan](https://github.com/shipengAlan)
 
+[SeuWlan脚本(3)(Go)](https://github.com/bosoncat/seu-wlan) - by [@bosoncat](https://github.com/bosoncat)
+
 [自动登陆seu工具(Python)](https://github.com/HanyuuFurude/seuLogin) - by [@Hanyuu Furude](https://hanyuufurude.github.io/)
 
 [安卓自动登录seu软件](https://github.com/cedarwu/AutoLogin) - by [@cedarwu](https://github.com/cedarwu)
@@ -67,4 +75,6 @@
 [Wox登录SEU-Wlan插件](https://github.com/wangjunchi/Wox_Plugin_SEU_Autologin) - by [@wangjunchi](https://github.com/wangjunchi)
 
 [土木的一些App](https://github.com/hzlbbfrog/SEU) - by [@hzlbbfrog](https://github.com/hzlbbfrog)
+
+[东大小微](https://github.com/seuxw/api_seuxw_backend) - by [@seuxw](https://github.com/seuxw)
 
