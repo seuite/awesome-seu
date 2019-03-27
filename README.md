@@ -2,7 +2,7 @@
 
 **天呐，这所学校真厉害**
 
-[文档规范](https://docs.seu.services/#/guide/SEUITEDocManual) - by [@SEU-ITE](https://github.com/SEU-ITE)
+[文档规范](https://docs.seu.services/#/intro/SEUITEDocManual) - by [@SEU-ITE](https://github.com/SEU-ITE)
 
 [SEUITE镜像站](https://mirrors.seu.services) - by [@SEU-ITE](https://github.com/SEU-ITE)
 
