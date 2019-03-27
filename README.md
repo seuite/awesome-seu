@@ -78,5 +78,6 @@
 
 [土木的一些App](https://github.com/hzlbbfrog/SEU) - by [@hzlbbfrog](https://github.com/hzlbbfrog)
 
-[东大小微](https://github.com/seuxw/api_seuxw_backend) - by [@seuxw](https://github.com/seuxw)
+[东大小微](https://github.com/seuxw/api_seuxw_backend) - by [@东大小微](https://github.com/seuxw)
 
+[东大网安资料整理](https://github.com/susers/Course) - by [@东大网安](https://github.com/susers)
