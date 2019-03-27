@@ -83,3 +83,5 @@
 [土木的一些App](https://github.com/hzlbbfrog/SEU) - by [@hzlbbfrog](https://github.com/hzlbbfrog)
 
 [东大小微后端代码](https://github.com/seuxw/api_seuxw_backend) - by [@东大小微](https://github.com/seuxw)
+
+[农业大数据项目SSM框架集成](https://github.com/SEUFarmTeam/AgricultureBD_demo) - by [@SEUFarmTeam](https://github.com/SEUFarmTeam)
