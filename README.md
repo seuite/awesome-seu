@@ -61,4 +61,5 @@
 
 [安卓自动登录seu软件](https://github.com/cedarwu/AutoLogin) - by [@cedarwu](https://github.com/cedarwu)
 
+[Wox登录SEU-Wlan插件](https://github.com/wangjunchi/Wox_Plugin_SEU_Autologin) - by [@wangjunchi](https://github.com/wangjunchi)
 
