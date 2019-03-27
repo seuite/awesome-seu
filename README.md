@@ -86,7 +86,13 @@
 
 ## 项目参考
 
+[计算机图形学作业](https://github.com/Kherrisan/ComputerGraphicsLab) - by [@Kherrisan](https://github.xom/Kherrisan)
+
+[基于Docker运行在单机上的AWD平台](https://github.com/imagemlt/tinyAWDplatform) - by [@imagemlt](https://github.com/imagemlt)
+
 [农业大数据项目SSM框架集成](https://github.com/SEUFarmTeam/AgricultureBD_demo) - by [@SEUFarmTeam](https://github.com/SEUFarmTeam)
+
+[2018计软科协迎新项目代码](https://github.com/obsession707/Tuba) - by [@obsession707](https://github.com/obsession707)
 
 [土木的一些App](https://github.com/hzlbbfrog/SEU) - by [@hzlbbfrog](https://github.com/hzlbbfrog)
 
