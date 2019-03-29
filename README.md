@@ -59,7 +59,7 @@
 
 [体育馆预约](https://github.com/kimixuchen/GymAutoOrder) - by [@kimixuchen](https://github.com/kimixuchen)
 
-[本科GPA导出pdf](https://github.com/Neilai/seu-GPA-helper) - by [@Neilai](https://github.com/Neilai}
+[本科GPA导出pdf](https://github.com/Neilai/seu-GPA-helper) - by [@Neilai](https://github.com/Neilai)
 
 ## 各式脚(lun)本(zi)
 
