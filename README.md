@@ -109,3 +109,6 @@
 [Robomaster 2018 视觉代码](https://github.com/SEU-SuperNova-CVRA/Robomaster2018-SEU-OpenSource) -by [@SEU-SuperNova-CVRA](https://github.com/SEU-SuperNova-CVRA)
 
 [小猴偷米 PWA 版](https://github.com/HeraldStudio/herald-web) -by [@小猴偷米工作室](https://github.com/HeraldStudio)
+
+## 友情链接
+[北航A2OS技术分享文档站](https://ftp.a2os.club/)
