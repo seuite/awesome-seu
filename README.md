@@ -111,4 +111,5 @@
 [小猴偷米 PWA 版](https://github.com/HeraldStudio/herald-web) -by [@小猴偷米工作室](https://github.com/HeraldStudio)
 
 ## 友情链接
-[北航A2OS技术分享文档站](https://ftp.a2os.club/)
+[南航A2OS技术分享文档站](https://ftp.a2os.club/)
+ana
