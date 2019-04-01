@@ -1,14 +1,25 @@
 # awesome-seu
 
-**天呐，这所学校真厉害** 
+😎**天呐，这所学校真厉害**
 
-[文档规范](https://docs.seu.services/#/intro/SEUITEDocManual) -by [@SEU-ITE](https://github.com/SEU-ITE)
+> 注：
+> - 🥇：优秀项目
+> - ⚠️：不保证可用性
+> - 🚧：项目未完工或未部署线上
 
-[SEUITE镜像站](https://mirrors.seu.services) -by [@SEU-ITE](https://github.com/SEU-ITE)
+项目分享欢迎请尽情给Susan [发起issue](https://github.com/SEU-ITE/awesome-seu/issues/new/choose) 或者 [Pull Request](https://github.com/SEU-ITE/awesome-seu/compare) 哦😘
+
+在发起issue或者提出PR前，请先参看文档指南以避免歧义和不规范造成的误解和遗憾呢👇
+
+[文档指南](https://docs.seu.services/#/intro/SEUITEDocManual) -by [@SEU-ITE](https://github.com/SEU-ITE)
+
+如果你很有兴趣，但是不会使用Github的话，我们还提供了一份适用于所有人的超简单教程哟👇
+
+🚧[1分钟上手GitHub](https://docs.seu.services/#/OneMinute/OneMinuteToGitHub) -by [@SEU-ITE](https://github.com/SEU-ITE)
 
 ## 资源整合
 
-[**东南大学课程资料共享计划**](https://github.com/zjdx1998/seucourseshare) -by [@zjdx1998](https://github.com/zjdx1998) -Susan 注：希望大家能够参与到这个项目当中来，一起快乐学习！
+🥇[**东南大学课程资料共享计划**](https://github.com/zjdx1998/seucourseshare) -by [@zjdx1998](https://github.com/zjdx1998) -Susan 注：希望大家能够参与到这个项目当中来，一起快乐学习！
 
 [复习资料](https://github.com/lyMeiSEU/ly_schoolhelper) -by [@lyMeiSEU](https://github.com/lyMeiSEU)
 
@@ -17,7 +28,7 @@
 
 [实用信息](https://github.com/yang69/SEU) -by [@yang69](https://github.com/yang69) 
 
-[公开数据](https://github.com/alittelboy/seu-info) -by [@alittelboy](https://github.com/alittelboy)
+[东南大学公开数据](https://github.com/alittelboy/seu-info) -by [@alittelboy](https://github.com/alittelboy)
 
 ## 社团专供(x)
 
@@ -32,7 +43,7 @@
 
 ## 快乐学习
 
-[**Latex模板**](https://github.com/seucs/seuthesis) -by[@seucs](https://github.com/seucs)
+🥇[**Latex模板**](https://github.com/seucs/seuthesis) -by[@seucs](https://github.com/seucs)
 
 [LaTex模板(2)](https://github.com/SouthEastUniversityofChina/seuthesis) -by [@SouthEastUniversityofChina](https://github.com/SouthEastUniversityofChina)
 
@@ -40,7 +51,7 @@
 
 [Lyx模板](https://github.com/oldoldstone/seuthslyx) -by [@Oldoldstone](https://github.com/oldoldstone)
 
-[**PPT模板**](https://github.com/wurahara/SEU-Beamer-Slide) -by[wurahara](https://github.com/wurahara)
+🥇[**PPT模板**](https://github.com/wurahara/SEU-Beamer-Slide) -by[wurahara](https://github.com/wurahara)
 
 [SEU-Monash分享](https://github.com/NonoKing/SEU_Monash_2017-2018) -by [@NonoKing](https://github.com/nonoking)
 
@@ -104,7 +115,7 @@
 
 [语义分析项目](https://github.com/wwsun/seu-semanticAnalysis) -by [@wwSun](https://github.com/wwsun) - 注：这是东大数据智能实验室的项目
 
-[seuknower](https://github.com/zjhsdtc/seuknower_backend) -by [@zjhsdtc](https://github/zjhsdtc) - 注：该项目已经破产，但是代码还是可以参考的
+⚠️[seuknower](https://github.com/zjhsdtc/seuknower_backend) -by [@zjhsdtc](https://github/zjhsdtc) - 注：该项目已经破产，但代码还是可以参考的
 
 [Robomaster 2018 视觉代码](https://github.com/SEU-SuperNova-CVRA/Robomaster2018-SEU-OpenSource) -by [@SEU-SuperNova-CVRA](https://github.com/SEU-SuperNova-CVRA)
 
