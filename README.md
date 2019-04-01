@@ -7,20 +7,20 @@
 > - ⚠️：不保证可用性
 > - 🚧：项目未完工或未部署线上
 
-😘项目分享欢迎请尽情给Susan [发起issue](https://github.com/SEU-ITE/awesome-seu/issues/new/choose) 或者 [Pull Request](https://github.com/SEU-ITE/awesome-seu/compare) 
+😘项目分享欢迎请尽情给Susan [发起issue](https://github.com/seuite/awesome-seu/issues/new/choose) 或者 [Pull Request](https://github.com/seuite/awesome-seu/compare) 
 
 👇在发起issue或者提出PR前，请先参看文档指南以避免歧义和不规范造成的误解和遗憾
 
-[文档指南](https://docs.seu.services/#/intro/SEUITEDocManual) -by [@SEU-ITE](https://github.com/SEU-ITE)
+[文档指南](https://docs.seu.services/#/intro/SEUITEDocManual) -by [@东大开源协会](https://github.com/seuite)
 
 👇如果你很有兴趣，但苦恼于不会使用GitHub，我们还提供了一份适用于所有人的超简单教程
 
-🚧[1分钟上手GitHub](https://docs.seu.services/#/OneMinute/OneMinuteToGitHub) -by [@SEU-ITE](https://github.com/SEU-ITE)
+🚧[1分钟上手GitHub](https://docs.seu.services/#/OneMinute/OneMinuteToGitHub) -by [@东大开源协会](https://github.com/seuite)
 
 👏如果这些开源项目对你有帮助，或者你对东大那些还没有发现的优秀项目感兴趣的话，请star, watch, 和加入我们！
 
-![GitHub stars](https://img.shields.io/github/stars/seu-ite/awesome-seu.svg?style=popout)
-![GitHub watchers](https://img.shields.io/github/watchers/SEU-ITE/awesome-seu.svg?style=popout)
+![GitHub stars](https://img.shields.io/github/stars/seuite/awesome-seu.svg?style=popout)
+![GitHub watchers](https://img.shields.io/github/watchers/seuite/awesome-seu.svg?style=popout)
 ![TencentGroupURL](https://img.shields.io/badge/QQ群-974796440-blue.svg?url="tencent://groupwpa/?subcmd=all&param=shang.qq.com/wpa/qunwpa?idkey=7e8139a422245fc8c4a3c8a76b01c3fe85f3ebf19deba8b7ae7e8d7911ead26d"?style=social)
 
 
@@ -92,7 +92,7 @@
 
 [SeuWlan脚本(3)(Go)](https://github.com/bosoncat/seu-wlan) -by [@bosoncat](https://github.com/bosoncat)
 
-[SeuWlan脚本(4)(Python)](https://github.com/HanyuuFurude/seuLogin) -by [@Hanyuu Furude](https://hanyuufurude.github.io/) - 注：[SEU-ITE](https://github.com/SEU-ITE)使用其中的web.py于生产环境中
+[SeuWlan脚本(4)(Python)](https://github.com/HanyuuFurude/seuLogin) -by [@Hanyuu Furude](https://hanyuufurude.github.io/) - 注：[SEU-ITE](https://github.com/seuite)使用其中的web.py于生产环境中
 
 [安卓自动登录seu软件](https://github.com/cedarwu/AutoLogin) -by [@cedarwu](https://github.com/cedarwu)
 
