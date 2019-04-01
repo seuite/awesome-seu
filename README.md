@@ -114,4 +114,4 @@
 
 [Awesome-NJU](https://github.com/idealclover/awesome-nju) -by [@idealclover](https://github.com/idealclover/) - 南京大学的小伙伴们！OvO
 
-[南航A2OS俱乐部](https://home.a2os.club/) - 南京航空航天大学的小伙伴们！> v <
+[NUAA Open Source (A2OS)](https://github.com/NUAA-Open-Source) - [主页](https://home.a2os.club/) - 南京航空航天大学的小伙伴们！> v <
