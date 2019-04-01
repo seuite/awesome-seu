@@ -7,13 +7,13 @@
 > - ⚠️：不保证可用性
 > - 🚧：项目未完工或未部署线上
 
-项目分享欢迎请尽情给Susan [发起issue](https://github.com/SEU-ITE/awesome-seu/issues/new/choose) 或者 [Pull Request](https://github.com/SEU-ITE/awesome-seu/compare) 哦😘
+😘项目分享欢迎请尽情给Susan [发起issue](https://github.com/SEU-ITE/awesome-seu/issues/new/choose) 或者 [Pull Request](https://github.com/SEU-ITE/awesome-seu/compare) 
 
-在发起issue或者提出PR前，请先参看文档指南以避免歧义和不规范造成的误解和遗憾呢👇
+👇在发起issue或者提出PR前，请先参看文档指南以避免歧义和不规范造成的误解和遗憾
 
 [文档指南](https://docs.seu.services/#/intro/SEUITEDocManual) -by [@SEU-ITE](https://github.com/SEU-ITE)
 
-如果你很有兴趣，但是不会使用Github的话，我们还提供了一份适用于所有人的超简单教程哟👇
+👇如果你很有兴趣，但苦恼于不会使用GitHub，我们还提供了一份适用于所有人的超简单教程
 
 🚧[1分钟上手GitHub](https://docs.seu.services/#/OneMinute/OneMinuteToGitHub) -by [@SEU-ITE](https://github.com/SEU-ITE)
 
