@@ -1,6 +1,6 @@
 # awesome-seu
 
-**天呐，这所学校真厉害**
+**天呐，这所学校真厉害** 
 
 [文档规范](https://docs.seu.services/#/intro/SEUITEDocManual) -by [@SEU-ITE](https://github.com/SEU-ITE)
 
@@ -111,5 +111,7 @@
 [小猴偷米 PWA 版](https://github.com/HeraldStudio/herald-web) -by [@小猴偷米工作室](https://github.com/HeraldStudio)
 
 ## 友情链接
-[南航A2OS技术分享文档站](https://ftp.a2os.club/)
-ana
+
+[Awesome-NJU](https://github.com/idealclover/awesome-nju) -by [@idealclover](https://github.com/idealclover/) - 南京大学的小伙伴们！OvO
+
+[南航A2OS俱乐部](https://home.a2os.club/) - 南京航空航天大学的小伙伴们！> v <
