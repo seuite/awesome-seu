@@ -17,6 +17,13 @@
 
 🚧[1分钟上手GitHub](https://docs.seu.services/#/OneMinute/OneMinuteToGitHub) -by [@SEU-ITE](https://github.com/SEU-ITE)
 
+👏如果这些开源项目对你有帮助，或者你对东大那些还没有发现的优秀项目感兴趣的话，请star, watch, 和加入我们！
+
+![GitHub stars](https://img.shields.io/github/stars/seu-ite/awesome-seu.svg?style=popout)
+![GitHub watchers](https://img.shields.io/github/watchers/SEU-ITE/awesome-seu.svg?style=popout)
+![TencentGroupURL](https://img.shields.io/badge/QQ群-974796440-blue.svg?url="tencent://groupwpa/?subcmd=all&param=shang.qq.com/wpa/qunwpa?idkey=7e8139a422245fc8c4a3c8a76b01c3fe85f3ebf19deba8b7ae7e8d7911ead26d"?style=social)
+
+
 ## 资源整合
 
 🥇[**东南大学课程资料共享计划**](https://github.com/zjdx1998/seucourseshare) -by [@zjdx1998](https://github.com/zjdx1998) -Susan 注：希望大家能够参与到这个项目当中来，一起快乐学习！
