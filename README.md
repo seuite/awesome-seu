@@ -92,7 +92,7 @@
 
 [SeuWlan脚本(3)(Go)](https://github.com/bosoncat/seu-wlan) -by [@bosoncat](https://github.com/bosoncat)
 
-[SeuWlan脚本(4)(Python)](https://github.com/HanyuuFurude/seuLogin) -by [@Hanyuu Furude](https://hanyuufurude.github.io/) - 注：[SEU-ITE](https://github.com/seuite)使用其中的web.py于生产环境中
+[SeuWlan脚本(4)(Python)](https://github.com/HanyuuFurude/seuLogin) -by [@Hanyuu Furude](https://hanyuufurude.github.io/) - 注：[SEUITE](https://github.com/seuite)使用其中的web.py于生产环境中
 
 [安卓自动登录seu软件](https://github.com/cedarwu/AutoLogin) -by [@cedarwu](https://github.com/cedarwu)
 
