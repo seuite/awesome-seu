@@ -51,7 +51,7 @@
 
 ## 快乐学习
 
-🥇[**Latex模板**](https://github.com/seucs/seuthesis) -by[@seucs](https://github.com/seucs)
+🥇[**Latex模板**](https://github.com/seucs/seuthesis) -by [@seucs](https://github.com/seucs)
 
 [LaTex模板(2)](https://github.com/SouthEastUniversityofChina/seuthesis) -by [@SouthEastUniversityofChina](https://github.com/SouthEastUniversityofChina)
 
@@ -96,6 +96,8 @@
 [安卓自动登录seu软件](https://github.com/cedarwu/AutoLogin) -by [@cedarwu](https://github.com/cedarwu)
 
 [Wox登录SEU-Wlan插件](https://github.com/wangjunchi/Wox_Plugin_SEU_Autologin) -by [@wangjunchi](https://github.com/wangjunchi)
+
+[iOS登录SEU-Wlan插件](https://github.com/NN708/seu-wlan-Login-iOS-Shortcuts) -by [@NN708](https://github.com/NN708)
 
 [欢乐抢课](https://github.com/LeonidasCl/seu-jwc-catcher) -by [@LeonidasCl](https://github.com/LeonidasCl)  
 
