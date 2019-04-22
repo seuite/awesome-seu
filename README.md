@@ -59,13 +59,11 @@
 
 [Lyx模板](https://github.com/oldoldstone/seuthslyx) -by [@Oldoldstone](https://github.com/oldoldstone)
 
-🥇[**PPT模板**](https://github.com/wurahara/SEU-Beamer-Slide) -by[wurahara](https://github.com/wurahara)
+🥇[**PPT模板**](https://github.com/wurahara/SEU-Beamer-Slide) -by [@wurahara](https://github.com/wurahara)
 
 [SEU-Monash分享](https://github.com/NonoKing/SEU_Monash_2017-2018) -by [@NonoKing](https://github.com/nonoking)
 
 [**课表导出**](https://github.com/NN708/SEU-Curriculum-Export) -by [@NN708](https://github.com/NN708)
-
-[幻片模板](https://github.com/wurahara/SEU-Beamer-Slide) -by [@wurahara](https://github.com/wurahara)
 
 [笔记分享](https://github.com/Yvon-Shong/SEU) -by [@Yvon-Shong](https://github.com/Yvon-Shong)
 
