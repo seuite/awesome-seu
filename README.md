@@ -89,7 +89,7 @@
 
 [SeuWlan脚本(2)(Python)](https://github.com/shipengAlan/seuWlanLogin) -by [@shipengAlan](https://github.com/shipengAlan)
 
-[SeuWlan脚本(3)(Go)](https://github.com/bosoncat/seu-wlan) -by [@bosoncat](https://github.com/bosoncat)
+[SeuWlan脚本(3)(Go)](https://github.com/vgxbj/seu-wlan) -by [@vgxbj](https://github.com/vgxbj)
 
 [SeuWlan脚本(4)(Python)](https://github.com/HanyuuFurude/seuLogin) -by [@Hanyuu Furude](https://hanyuufurude.github.io/) - 注：[SEUITE](https://github.com/seuite)使用其中的web.py于生产环境中
 
