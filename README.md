@@ -111,6 +111,8 @@
 
 [计算机图形学作业](https://github.com/Kherrisan/ComputerGraphicsLab) -by [@Kherrisan](https://github.xom/Kherrisan)
 
+[编译原理课程设计作业](https://github.com/Wolf-Tungsten/seu-compiler) -by [@Wolf-Tungsten](https://github.com/Wolf-Tungsten)
+
 [基于Docker运行在单机上的AWD平台](https://github.com/imagemlt/tinyAWDplatform) -by [@imagemlt](https://github.com/imagemlt)
 
 [农业大数据项目SSM框架集成](https://github.com/SEUFarmTeam/AgricultureBD_demo) -by [@SEUFarmTeam](https://github.com/SEUFarmTeam)
