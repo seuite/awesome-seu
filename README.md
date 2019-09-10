@@ -97,7 +97,7 @@
 
 [Wox登录SEU-Wlan插件](https://github.com/wangjunchi/Wox_Plugin_SEU_Autologin) -by [@wangjunchi](https://github.com/wangjunchi)
 
-[iOS登录SEU-Wlan插件](https://github.com/NN708/seu-wlan-Login-iOS-Shortcuts) -by [@NN708](https://github.com/NN708)
+[新版seu-wlan登录脚本(Python/iOS)](https://github.com/NN708/seu-wlan-login) -by [@NN708](https://github.com/NN708)
 
 [欢乐抢课](https://github.com/LeonidasCl/seu-jwc-catcher) -by [@LeonidasCl](https://github.com/LeonidasCl)  
 
