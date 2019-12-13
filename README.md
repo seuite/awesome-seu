@@ -65,6 +65,8 @@
 
 [**课表导出**](https://github.com/NN708/SEU-Curriculum-Export) -by [@NN708](https://github.com/NN708)
 
+[研究生/博士课表导出](https://github.com/vgxbj/seu-master-course-exporter) -by [@vgxbj](https://github.com/vgxbj)
+
 [笔记分享](https://github.com/Yvon-Shong/SEU) -by [@Yvon-Shong](https://github.com/Yvon-Shong)
 
 [17级机软课程资料（未完结）](https://github.com/HanyuuFurude/cw23) -by [Hanyuu Furude](https://hanyuufurude.github.io/) - 注：Private项目，需要查看请[联系作者](mailto:furude_hanyuu@outlook.com)提供访问权限
@@ -106,6 +108,8 @@
 [18级新系统抢课软件](https://github.com/AriaPokotengYe/SEU-NewSystem-catcher) -by [@AriaPokotengYe](https://github.com/AriaPokotengYe)  
 
 [18级新系统抢课(php服务器实现)](https://github.com/zixi123/seuGrabber) -by [@Yohane](https://github.com/zixi123)
+
+[校内 Mooc 助手（超星尔雅平台）](https://github.com/vgxbj/seu-mooc-helper) -by [@vgxbj](https://github.com/vgxbj)
 
 ## 项目参考
 
